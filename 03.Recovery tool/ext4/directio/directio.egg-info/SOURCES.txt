@@ -1,0 +1,7 @@
+README
+directiomodule.c
+setup.py
+directio.egg-info/PKG-INFO
+directio.egg-info/SOURCES.txt
+directio.egg-info/dependency_links.txt
+directio.egg-info/top_level.txt

@@ -1,0 +1,1 @@
+CFLAGS=-m64 -mno-red-zone -mno-sse -nostdinc -g -O -ffreestanding -fno-builtin -fno-stack-protector -fno-omit-frame-pointer -fno-PIE -fno-strict-aliasing -Wall -Wno-address-of-packed-member -DENABLE_ASSERT -Istorage -Iinclude ASFLAGS=-m64 -g -Wa,-I,storage -Wa,--divide LDFLAGS=-m64 -g -nostdlib -Wl,--build-id=none -static

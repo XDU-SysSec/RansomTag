@@ -1,0 +1,1 @@
+drivers/core.o drivers/dmar.o drivers/iommu.o drivers/pci_conceal.o drivers/pci_core.o drivers/pci_debug.o drivers/pci_init.o drivers/pci_match.o drivers/pci_match_compat.o drivers/security.o drivers/usb/output.o

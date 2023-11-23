@@ -1,0 +1,1 @@
+include drivers/core.d drivers/dmar.d drivers/iommu.d drivers/pci_conceal.d drivers/pci_core.d drivers/pci_debug.d drivers/pci_init.d drivers/pci_match.d drivers/pci_match_compat.d drivers/security.d

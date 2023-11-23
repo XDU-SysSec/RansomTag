@@ -1,0 +1,1 @@
+core/output.o drivers/output.o storage/output.o storage_io/output.o net/output.o crypto/output.a process/processes.o
